@@ -1,4 +1,14 @@
-### Hi there 👋
+# Halo there! 
+Allow me to introduce myself, my name is **Riza Zamzami**.\
+I'm a fresh **Informatics Engineering graduate** with a keen interest in application development and technology from [Udinus](https://www.dinus.ac.id/).\
+"If you're interested in getting to know me, please follow my LinkedIn account [Linkedin](https://www.linkedin.com/in/rizazamz/).
+
+<p align="left">
+<a href="https://github.com/abdullahJufri">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=rizazamz&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="250em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=abdullahJufri&layout=compact&langs_count=8&theme=algolia"/>
+</a>
+</p>
 
 <!--
 **rizazamz/rizazamz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
