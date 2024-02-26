@@ -1,7 +1,7 @@
 # Halo there! 
 Allow me to introduce myself, my name is **Riza Zamzami**.\
 I'm a fresh **Informatics Engineering graduate** with a keen interest in application development and technology from [Udinus](https://www.dinus.ac.id/).\
-"If you're interested in getting to know me, please follow my LinkedIn account [Linkedin](https://www.linkedin.com/in/rizazamz/).
+"If you're interested in getting to know me, please follow my [Linkedin](https://www.linkedin.com/in/rizazamz/) account yaa.
 
 <p align="left">
 <a href="https://github.com/abdullahJufri">
